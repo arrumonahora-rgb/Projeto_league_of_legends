@@ -1,0 +1,11 @@
+{
+    "nome": "ROBLOX",
+    "jogadores": [
+        "EDU"
+    ],
+    "partidas": [],
+    "premios": {
+        "EDU": 0
+    },
+    "rodada_atual": 0
+}
